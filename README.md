@@ -6,6 +6,7 @@
 
 ### Main Projects
 - [Samsung Galaxy A12s/M12 Kernel](https://github.com/rsuntk/android_kernel_samsung_a12s)
+- [Samsung Galaxy A13/A04s Kernel](https://github.com/rsuntk/android_kernel_samsung_a13-a04s)
 - [Samsung Galaxy A10s Kernel](https://github.com/rsuntk/android_kernel_samsung_a10s-r)
 - [Samsung Galaxy A03 Kernel](https://github.com/rsuntk/android_kernel_samsung_a03)
 - [KernelSU on ARM32](https://github.com/Rissu-Projekt/KernelSU-ARM32)
