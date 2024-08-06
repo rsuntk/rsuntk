@@ -5,12 +5,13 @@
 
 ### Main Projects
 - [Samsung Galaxy A12s/M12 Kernel](https://github.com/rsuntk/android_kernel_samsung_a12s)
+- [Samsung Galaxy A10s Kernel](https://github.com/rsuntk/android_kernel_samsung_a10s-r)
 - [Samsung Galaxy A03 Kernel](https://github.com/rsuntk/android_kernel_samsung_a03)
 - [KernelSU on ARM32](https://github.com/Rissu-Projekt/KernelSU-ARM32)
 
 ### Stale Project
-- [Samsung Galaxy A10s Kernel](https://github.com/rsuntk/android_kernel_samsung_a10s-r)
-
+- None :)
+  
 ### Laptop specs
 - **Laptop:** Lenovo Thinkpad L421
 - **Processor:** Intel Core i5-2430M (2c2t, 3.0GHz)
