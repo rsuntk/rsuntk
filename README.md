@@ -1,4 +1,3 @@
-![Rissu Opensource](https://github.com/rsuntk/rsuntk/blob/main/banner.png) 
 ### About me
 - 👋 Hello, my name is Faris, or known as Rissu. 
 - 📘 Currently learning C, Rust and Makefile! 
