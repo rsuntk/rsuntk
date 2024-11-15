@@ -14,4 +14,3 @@
 
 ### Personal Orgs
 - [Rsuntk.Orgs](https://github.com/rsuntkOrgs)
-- [Rissu-Projekt](https://github.com/Rissu-Projekt)
